@@ -1,0 +1,6 @@
+node_modules/
+.env
+env.txt
+xp_database.json
+.DS_Store
+*.log
